@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Advent+Pro:100);
+html { 
+  background:  url(http://upload.wikimedia.org/wikipedia/commons/d/dd/Muybridge_race_horse_animated.gif) no-repeat center center fixed; 
+  background-size: cover;
+}
+body {
+    height: 100%;
+}
+
+.container{
+    text-align: center;
+    margin-top:23px;
+}
+table{
+    margin: auto;
+}
+input{
+    border-radius: 21px;
+    border:5px solid rgb(3, 5, 12);
+    font-size:34px;
+}
+button{
+    border-radius:21px;
+    border:5px solid #02021d;
+    font-size:30px;
+    background:  rgb(59, 83, 192);
+    width:102px;
+    height: 58px;
+}
+.calculator{
+    background-color: rgb(5, 36, 94);
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+}
